@@ -21,4 +21,17 @@ Na koncu je za upravljanje potrebno pokrenuti skriptu za upravljanje sfero robot
 python joy_sphero_class.py
 ```
 
+Naredbe na kontroleru su:
+- Lijeva gljivica - smjer kretanja
+- X - pojačanje plave boje
+- A - pojačanje zelene boje
+- B - pojačanje crvene boje
+- Y - Resetiranje svih boja na nulu
+- R1 + (X,A,B) - smanjenje intenziteta odabrane boje
+- L1 - zakret za 40° 
+- R2 - Povećanje brzine
+- L2 - Smanjenje brzine
+- R3 - maksimalna brzina
+
+
 Za više informacija možete posjetiti [ros wiki](http://wiki.ros.org/joy).
