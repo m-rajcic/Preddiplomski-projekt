@@ -1,4 +1,4 @@
-# Preddiplomski_projekt
+# Preddiplomski projekt
 Programi i naredbe potrebne za uspješno izvršavanje preddiplomskog projekta. 
 
 Na projetku je radilo jedanaest ljudi podijeljenih u tri tima:
