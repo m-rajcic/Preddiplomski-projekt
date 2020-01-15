@@ -4,3 +4,5 @@ Parametri PID regulatora su:
 - integralno pojačanje K_i = 0.00005
 - derivativno pojačanje K_d = 0
 - vrijeme diskretizacije T = 150 ms
+
+Skripta koja pokreće Sphero robote prema cilju je: sphero_final.py 
