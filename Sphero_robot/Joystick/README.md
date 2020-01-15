@@ -16,7 +16,7 @@ rosparam set joy_node/dev "/dev/input/jsX"
 rosrun joy joy_node
 rostopic echo joy
 ```
-Na kraju je za upravljanje potrebno pokrenuti skriptu za upravljanje sfero robotom:
+Na kraju je potrebno pokrenuti skriptu za upravljanje sfero robotom:
 ```
 python joy_sphero_class.py
 ```
