@@ -1,1 +1,1 @@
-Skripta koja daje lokacije sfernih robota, ciljnih markera i centar arene.
+Skripta za lokaciju sfernih robota, ciljnih markera i centra arene.
