@@ -7,6 +7,7 @@ Na projetku je radilo jedanaest ljudi podijeljenih u tri tima:
 - Tim Računalni Vid - Dorian Dončević, Margareta Rajčić, Dominik Vrbanić
 
 Mentor: Prof. dr. sc. Stjepan Bogdan
+
 Asistenti: 
  - Antonella Barišić, mag.ing.
  - Marko Križmančić , mag. ing.
