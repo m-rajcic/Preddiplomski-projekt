@@ -6,4 +6,8 @@ Na projetku je radilo jedanaest ljudi podijeljenih u tri tima:
 - Tim Sphero - Matko Batoš, Jakob Domislović, Nika Hipša, Filip Mihelčić 
 - Tim Računalni Vid - Dorian Dončević, Margareta Rajčić, Dominik Vrbanić
 
-Mentor projekta: prof. dr. sc. Stjepan Bogdan
+Mentor: Prof. dr. sc. Stjepan Bogdan
+Asistenti: 
+ - Antonella Barišić, mag.ing.
+ - Marko Križmančić , mag. ing.
+ - Robert Milijaš , mag. ing.
